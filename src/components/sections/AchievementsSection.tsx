@@ -48,8 +48,8 @@ const AchievementsSection = () => {
         </div>
       </a>
       <div className="achievement-reveal mt-12 grid grid-cols-1 md:grid-cols-2 gap-8 border-t border-black/10 pt-8">
-        <div><p className="text-[10px] uppercase tracking-[0.22em] text-black/45">2017—2020</p><h3 className="mt-2 font-semibold">Diploma in Computer Science</h3><p className="mt-1 text-sm text-black/55">Government Polytechnic Bighapur · 79%</p><p className="text-sm text-black/45">Manpur, Unnao, Uttar Pradesh</p></div>
-        <div><p className="text-[10px] uppercase tracking-[0.22em] text-black/45">2015—2017</p><h3 className="mt-2 font-semibold">Class 12 · Science</h3><p className="mt-1 text-sm text-black/55">Juhari Devi Girls Inter College · 69%</p><p className="text-sm text-black/45">Kanpur, Uttar Pradesh</p></div>
+        <div><p className="text-[10px] uppercase tracking-[0.22em] text-black/45">2024—2028</p><h3 className="mt-2 font-semibold">B-Tech in Computer Science and Engineering</h3><p className="mt-1 text-sm text-black/55">Dr. A.P.J. Abdul Kalam Technical University</p><p className="text-sm text-black/45">Lucknow, Uttar Pradesh</p></div>
+        <div><p className="text-[10px] uppercase tracking-[0.22em] text-black/45">2022—2024</p><h3 className="mt-2 font-semibold">Class 12 · Science</h3><p className="mt-1 text-sm text-black/55">Juhari Devi Girls Inter College · 89%</p><p className="text-sm text-black/45">Kanpur, Uttar Pradesh</p></div>
       </div>
     </div>
   </section>;

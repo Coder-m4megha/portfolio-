@@ -222,7 +222,7 @@ const AboutSection = () => {
                 <div className="flex flex-col gap-1 relative pl-6 opacity-0">
                   <span className="absolute left-0 top-2 h-1.5 w-1.5 rounded-full bg-[#84cc16]" />
                   <span className="text-[9px] font-bold tracking-[0.25em] text-black/60 uppercase">Education</span>
-                  <span className="text-sm font-bold tracking-wider text-[#1c1c1c] uppercase">Diploma · CS</span>
+                  <span className="text-sm font-bold tracking-wider text-[#1c1c1c] uppercase">BTech· CSE</span>
                 </div>
 
               </div>
